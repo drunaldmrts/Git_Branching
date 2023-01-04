@@ -7,5 +7,7 @@ public class TestCase007 {
         // test case 007 is started
 
         // writing smoking tests
+
+        // creating a report
     }
 }
